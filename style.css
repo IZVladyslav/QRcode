@@ -1,0 +1,15 @@
+body {
+    background-color: blue
+}
+
+.qr-code{
+    text-align: center;
+}
+
+.text{
+    font-size: large;
+}
+
+.paragraph {
+    color:grey
+}
